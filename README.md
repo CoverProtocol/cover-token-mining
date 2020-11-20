@@ -9,7 +9,7 @@ This Repo has the COVER token, migrator, vesting, blacksmith contracts.
 * Vesting: [0xE98567885Df519dFeB12C0E268dD5d9b798bD531](https://etherscan.io/address/0xE98567885Df519dFeB12C0E268dD5d9b798bD531#code)
 
 ## Design
-![design](https://github.com/CoverProtocol/cover-token-mining/blob/main/cover-token-mining.pdf)
+![design](https://github.com/CoverProtocol/cover-token-mining/blob/main/cover-token-mining.png)
 
 ## Development
 * run `npm install` to install all node dependencies
